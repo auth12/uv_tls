@@ -1,0 +1,9 @@
+[submodule "modules/libuv"]
+	path = modules/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "modules/spdlog"]
+	path = modules/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "modules/mbedtls"]
+	path = modules/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls.git
